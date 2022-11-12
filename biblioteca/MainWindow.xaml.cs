@@ -24,5 +24,20 @@ namespace biblioteca
         {
             InitializeComponent();
         }
+
+        private void btnInserisci_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnTempoLettura_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnDatiLibro_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
